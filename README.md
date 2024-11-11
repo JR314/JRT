@@ -35,3 +35,5 @@ Plot a heatmap of user-anime interactions to show rating patterns.
 Display a bar chart of genre popularity by average rating or frequency.
 Show the distribution of predicted vs. actual ratings for evaluation.
 
+Update Continuing....
+
