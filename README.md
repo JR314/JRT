@@ -1,4 +1,4 @@
-# JRT -- SIMPLE MACHINE LEARNING MODEL
+# JRT -- Animelist MACHINE LEARNING MODEL
 
 Objective
 To analyze anime list data to understand user preferences and predict the anime rating a user might give based on various features like genre, release date, and other metadata. The project aims to develop a recommender system and derive insights into what factors contribute most to a user’s anime preferences.
